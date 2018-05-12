@@ -1,0 +1,87 @@
+#creator {
+	
+	background-image: url(back-image.jpg);
+}
+
+h3 {
+	color: white;
+	text-align:center;
+	text-shadow: 5px yellow;
+	font-weight:bold;
+	text-decoration:underline;
+}
+.container
+{
+	margin:150px auto;
+	text-align:center;
+	border-style: dotted;
+	border-color: black;
+	border-radius: 10px;
+	margin-top: 25px;
+	width:300px;
+	background-color: yellow;
+}
+.shakara{
+	font-style: italic;
+	font-size: 15px;	
+}
+h6 {
+	font-style: italic;
+	text-align: left;
+	margin-left: 5px;	
+}
+
+#display 
+{
+	margin-top: 20px;
+	width: 210px;
+	height: 50px;
+	border-radius: 5px;
+	text-align: right;
+	text-decoration: none;
+	font-family: Times;
+	font-size: 30px;
+	position: relative;
+}
+#equal:hover
+{
+	color:red;
+	background-color:white;
+}
+#equal:active
+{
+	color: red;
+	transform:translatey(4px);
+	opacity: 0.1;
+}
+#equal
+{
+	width:120px;
+	height:50px;
+	border:none;
+	background:black;
+	color:white;
+	border-radius:5px;
+	
+}
+.button
+{
+	width:60px;
+	height:50px;
+	border:none;
+	background:black;
+	color:white;
+	border-radius:5px;
+	position:relative;
+}
+.button:hover
+{
+	color:yellow;
+	background-color:white;
+}
+.button:active
+{
+	color: red;
+	transform:translatey(4px);
+	opacity: 0.1;
+}
